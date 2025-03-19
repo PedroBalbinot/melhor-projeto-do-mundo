@@ -17,5 +17,5 @@ body{
 }
 #toggle-text:checked + #text {
   display: block;
-  
+  color: red;
 }
