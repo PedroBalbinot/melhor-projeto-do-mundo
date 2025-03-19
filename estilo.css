@@ -14,5 +14,5 @@ body{
 
 .botao{
    text-align: center;
-   border: 10px;
+   border-radius: 20px;
 }
