@@ -16,5 +16,11 @@ body{
    text-align: center;
    margin-right: 70px;
    color: red;
+  }
+  
+  .hidden {
+    display: none;
 }
-
+#toggle-text:checked + #text {
+  display: block;
+}
